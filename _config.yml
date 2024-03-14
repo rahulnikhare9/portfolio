@@ -1,1 +1,12 @@
+# title: Rahul Nikhare
+# logo: 
+# description: text blow image
+# show_downloads: true
+# theme: jekyll_theme_minimal
 
+title: Rahul Nikhare
+# logo: /assets/img/logo.png
+# description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+# google_analytics:
+theme: jekyll-theme-minimal
